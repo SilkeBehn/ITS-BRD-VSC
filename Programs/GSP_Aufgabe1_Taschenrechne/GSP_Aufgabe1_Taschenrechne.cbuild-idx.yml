@@ -1,0 +1,20 @@
+build-idx:
+  generated-by: csolution version 2.11.0
+  cdefault: ${CMSIS_COMPILER_ROOT}/cdefault.yml
+  csolution: GSP_Aufgabe1_Taschenrechne.csolution.yml
+  cbuild-run: out/GSP_Aufgabe1_Taschenrechne+ITSboard.cbuild-run.yml
+  tmpdir: tmp
+  cprojects:
+    - cproject: GSP_Aufgabe1_Taschenrechne.cproject.yml
+  cbuilds:
+    - cbuild: out/GSP_Aufgabe1_Taschenrechne/ITSboard/Debug/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard.cbuild.yml
+      project: GSP_Aufgabe1_Taschenrechne
+      configuration: .Debug+ITSboard
+      messages:
+        info:
+          - GSP_Aufgabe1_Taschenrechne.cbuild-pack.yml - file is already up-to-date
+          - GSP_Aufgabe1_Taschenrechne+ITSboard.cbuild-run.yml - file is already up-to-date
+          - GSP_Aufgabe1_Taschenrechne.Debug+ITSboard.cbuild.yml - file is already up-to-date
+      packs-unused:
+        - pack: ARM::CMSIS-DSP@1.16.2
+        - pack: ARM::CMSIS-NN@7.0.0

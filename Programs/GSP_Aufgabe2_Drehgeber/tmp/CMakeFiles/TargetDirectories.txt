@@ -1,0 +1,8 @@
+C:/TI-Labor/git/ITS-BRD-VSC_Projekte/ITS-BRD-VSC-meinFork/Programs/GSP_Aufgabe2_Drehgeber/tmp/CMakeFiles/database.dir
+C:/TI-Labor/git/ITS-BRD-VSC_Projekte/ITS-BRD-VSC-meinFork/Programs/GSP_Aufgabe2_Drehgeber/tmp/CMakeFiles/GSP_Aufgabe2_Drehgeber.Debug+ITSboard.dir
+C:/TI-Labor/git/ITS-BRD-VSC_Projekte/ITS-BRD-VSC-meinFork/Programs/GSP_Aufgabe2_Drehgeber/tmp/CMakeFiles/GSP_Aufgabe2_Drehgeber.Debug+ITSboard-build.dir
+C:/TI-Labor/git/ITS-BRD-VSC_Projekte/ITS-BRD-VSC-meinFork/Programs/GSP_Aufgabe2_Drehgeber/tmp/CMakeFiles/GSP_Aufgabe2_Drehgeber.Debug+ITSboard-configure.dir
+C:/TI-Labor/git/ITS-BRD-VSC_Projekte/ITS-BRD-VSC-meinFork/Programs/GSP_Aufgabe2_Drehgeber/tmp/CMakeFiles/GSP_Aufgabe2_Drehgeber.Debug+ITSboard-executes.dir
+C:/TI-Labor/git/ITS-BRD-VSC_Projekte/ITS-BRD-VSC-meinFork/Programs/GSP_Aufgabe2_Drehgeber/tmp/CMakeFiles/GSP_Aufgabe2_Drehgeber.Debug+ITSboard-database.dir
+C:/TI-Labor/git/ITS-BRD-VSC_Projekte/ITS-BRD-VSC-meinFork/Programs/GSP_Aufgabe2_Drehgeber/tmp/CMakeFiles/edit_cache.dir
+C:/TI-Labor/git/ITS-BRD-VSC_Projekte/ITS-BRD-VSC-meinFork/Programs/GSP_Aufgabe2_Drehgeber/tmp/CMakeFiles/rebuild_cache.dir

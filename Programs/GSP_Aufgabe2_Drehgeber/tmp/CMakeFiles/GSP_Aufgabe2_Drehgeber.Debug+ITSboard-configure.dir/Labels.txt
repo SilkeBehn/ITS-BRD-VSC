@@ -1,0 +1,10 @@
+# Target labels
+ GSP_Aufgabe2_Drehgeber.Debug+ITSboard
+# Source files and their labels
+C:/TI-Labor/git/ITS-BRD-VSC_Projekte/ITS-BRD-VSC-meinFork/Programs/GSP_Aufgabe2_Drehgeber/tmp/CMakeFiles/GSP_Aufgabe2_Drehgeber.Debug+ITSboard-configure
+C:/TI-Labor/git/ITS-BRD-VSC_Projekte/ITS-BRD-VSC-meinFork/Programs/GSP_Aufgabe2_Drehgeber/tmp/CMakeFiles/GSP_Aufgabe2_Drehgeber.Debug+ITSboard-configure.rule
+C:/TI-Labor/git/ITS-BRD-VSC_Projekte/ITS-BRD-VSC-meinFork/Programs/GSP_Aufgabe2_Drehgeber/tmp/GSP_Aufgabe2_Drehgeber.Debug+ITSboard/src/GSP_Aufgabe2_Drehgeber.Debug+ITSboard-stamp/GSP_Aufgabe2_Drehgeber.Debug+ITSboard-configure.rule
+C:/TI-Labor/git/ITS-BRD-VSC_Projekte/ITS-BRD-VSC-meinFork/Programs/GSP_Aufgabe2_Drehgeber/tmp/GSP_Aufgabe2_Drehgeber.Debug+ITSboard/src/GSP_Aufgabe2_Drehgeber.Debug+ITSboard-stamp/GSP_Aufgabe2_Drehgeber.Debug+ITSboard-patch.rule
+C:/TI-Labor/git/ITS-BRD-VSC_Projekte/ITS-BRD-VSC-meinFork/Programs/GSP_Aufgabe2_Drehgeber/tmp/GSP_Aufgabe2_Drehgeber.Debug+ITSboard/src/GSP_Aufgabe2_Drehgeber.Debug+ITSboard-stamp/GSP_Aufgabe2_Drehgeber.Debug+ITSboard-update.rule
+C:/TI-Labor/git/ITS-BRD-VSC_Projekte/ITS-BRD-VSC-meinFork/Programs/GSP_Aufgabe2_Drehgeber/tmp/GSP_Aufgabe2_Drehgeber.Debug+ITSboard/src/GSP_Aufgabe2_Drehgeber.Debug+ITSboard-stamp/GSP_Aufgabe2_Drehgeber.Debug+ITSboard-download.rule
+C:/TI-Labor/git/ITS-BRD-VSC_Projekte/ITS-BRD-VSC-meinFork/Programs/GSP_Aufgabe2_Drehgeber/tmp/GSP_Aufgabe2_Drehgeber.Debug+ITSboard/src/GSP_Aufgabe2_Drehgeber.Debug+ITSboard-stamp/GSP_Aufgabe2_Drehgeber.Debug+ITSboard-mkdir.rule

@@ -1,0 +1,40 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/TI-Labor/git/ITS-BRD-VSC_Projekte/ITS-BRD-VSC-meinFork/Programs/GSP_Aufgabe1_Taschenrechne/tmp/CMakeFiles/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard-executes"
+		},
+		{
+			"file" : "C:/TI-Labor/git/ITS-BRD-VSC_Projekte/ITS-BRD-VSC-meinFork/Programs/GSP_Aufgabe1_Taschenrechne/tmp/CMakeFiles/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard-executes.rule"
+		},
+		{
+			"file" : "C:/TI-Labor/git/ITS-BRD-VSC_Projekte/ITS-BRD-VSC-meinFork/Programs/GSP_Aufgabe1_Taschenrechne/tmp/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard/src/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard-stamp/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard-executes.rule"
+		},
+		{
+			"file" : "C:/TI-Labor/git/ITS-BRD-VSC_Projekte/ITS-BRD-VSC-meinFork/Programs/GSP_Aufgabe1_Taschenrechne/tmp/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard/src/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard-stamp/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard-build.rule"
+		},
+		{
+			"file" : "C:/TI-Labor/git/ITS-BRD-VSC_Projekte/ITS-BRD-VSC-meinFork/Programs/GSP_Aufgabe1_Taschenrechne/tmp/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard/src/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard-stamp/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard-configure.rule"
+		},
+		{
+			"file" : "C:/TI-Labor/git/ITS-BRD-VSC_Projekte/ITS-BRD-VSC-meinFork/Programs/GSP_Aufgabe1_Taschenrechne/tmp/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard/src/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard-stamp/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard-patch.rule"
+		},
+		{
+			"file" : "C:/TI-Labor/git/ITS-BRD-VSC_Projekte/ITS-BRD-VSC-meinFork/Programs/GSP_Aufgabe1_Taschenrechne/tmp/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard/src/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard-stamp/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard-update.rule"
+		},
+		{
+			"file" : "C:/TI-Labor/git/ITS-BRD-VSC_Projekte/ITS-BRD-VSC-meinFork/Programs/GSP_Aufgabe1_Taschenrechne/tmp/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard/src/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard-stamp/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard-download.rule"
+		},
+		{
+			"file" : "C:/TI-Labor/git/ITS-BRD-VSC_Projekte/ITS-BRD-VSC-meinFork/Programs/GSP_Aufgabe1_Taschenrechne/tmp/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard/src/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard-stamp/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard-mkdir.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"GSP_Aufgabe1_Taschenrechne.Debug+ITSboard"
+		],
+		"name" : "GSP_Aufgabe1_Taschenrechne.Debug+ITSboard-executes"
+	}
+}

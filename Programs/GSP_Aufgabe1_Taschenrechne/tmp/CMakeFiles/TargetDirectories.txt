@@ -1,0 +1,8 @@
+C:/TI-Labor/git/ITS-BRD-VSC_Projekte/ITS-BRD-VSC-meinFork/Programs/GSP_Aufgabe1_Taschenrechne/tmp/CMakeFiles/database.dir
+C:/TI-Labor/git/ITS-BRD-VSC_Projekte/ITS-BRD-VSC-meinFork/Programs/GSP_Aufgabe1_Taschenrechne/tmp/CMakeFiles/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard.dir
+C:/TI-Labor/git/ITS-BRD-VSC_Projekte/ITS-BRD-VSC-meinFork/Programs/GSP_Aufgabe1_Taschenrechne/tmp/CMakeFiles/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard-build.dir
+C:/TI-Labor/git/ITS-BRD-VSC_Projekte/ITS-BRD-VSC-meinFork/Programs/GSP_Aufgabe1_Taschenrechne/tmp/CMakeFiles/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard-configure.dir
+C:/TI-Labor/git/ITS-BRD-VSC_Projekte/ITS-BRD-VSC-meinFork/Programs/GSP_Aufgabe1_Taschenrechne/tmp/CMakeFiles/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard-executes.dir
+C:/TI-Labor/git/ITS-BRD-VSC_Projekte/ITS-BRD-VSC-meinFork/Programs/GSP_Aufgabe1_Taschenrechne/tmp/CMakeFiles/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard-database.dir
+C:/TI-Labor/git/ITS-BRD-VSC_Projekte/ITS-BRD-VSC-meinFork/Programs/GSP_Aufgabe1_Taschenrechne/tmp/CMakeFiles/edit_cache.dir
+C:/TI-Labor/git/ITS-BRD-VSC_Projekte/ITS-BRD-VSC-meinFork/Programs/GSP_Aufgabe1_Taschenrechne/tmp/CMakeFiles/rebuild_cache.dir

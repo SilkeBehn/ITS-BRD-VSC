@@ -1,0 +1,11 @@
+# Target labels
+ GSP_Aufgabe1_Taschenrechne.Debug+ITSboard
+# Source files and their labels
+C:/TI-Labor/git/ITS-BRD-VSC_Projekte/ITS-BRD-VSC-meinFork/Programs/GSP_Aufgabe1_Taschenrechne/tmp/CMakeFiles/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard-build
+C:/TI-Labor/git/ITS-BRD-VSC_Projekte/ITS-BRD-VSC-meinFork/Programs/GSP_Aufgabe1_Taschenrechne/tmp/CMakeFiles/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard-build.rule
+C:/TI-Labor/git/ITS-BRD-VSC_Projekte/ITS-BRD-VSC-meinFork/Programs/GSP_Aufgabe1_Taschenrechne/tmp/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard/src/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard-stamp/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard-build.rule
+C:/TI-Labor/git/ITS-BRD-VSC_Projekte/ITS-BRD-VSC-meinFork/Programs/GSP_Aufgabe1_Taschenrechne/tmp/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard/src/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard-stamp/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard-configure.rule
+C:/TI-Labor/git/ITS-BRD-VSC_Projekte/ITS-BRD-VSC-meinFork/Programs/GSP_Aufgabe1_Taschenrechne/tmp/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard/src/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard-stamp/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard-patch.rule
+C:/TI-Labor/git/ITS-BRD-VSC_Projekte/ITS-BRD-VSC-meinFork/Programs/GSP_Aufgabe1_Taschenrechne/tmp/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard/src/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard-stamp/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard-update.rule
+C:/TI-Labor/git/ITS-BRD-VSC_Projekte/ITS-BRD-VSC-meinFork/Programs/GSP_Aufgabe1_Taschenrechne/tmp/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard/src/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard-stamp/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard-download.rule
+C:/TI-Labor/git/ITS-BRD-VSC_Projekte/ITS-BRD-VSC-meinFork/Programs/GSP_Aufgabe1_Taschenrechne/tmp/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard/src/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard-stamp/GSP_Aufgabe1_Taschenrechne.Debug+ITSboard-mkdir.rule
